@@ -1,0 +1,16 @@
+
+body {
+	background-color: black;
+}
+
+.pinkRGB:hover{
+	background-color: #FFC0CB;
+}
+
+.whiteRGB:hover{
+	background-color: #FFFFFF;
+}
+
+.greyRGB:hover{
+	background-color: #C0C0C0;
+}
