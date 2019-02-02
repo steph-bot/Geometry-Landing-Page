@@ -5,12 +5,31 @@ body {
 
 .pinkRGB:hover{
 	background-color: #FFC0CB;
+	opacity: 0.8; 
+    filter:(opacity=50);
 }
 
 .whiteRGB:hover{
 	background-color: #FFFFFF;
+	opacity: 0.8; 
+    filter:(opacity=50);
 }
 
 .greyRGB:hover{
 	background-color: #C0C0C0;
+	opacity: 0.8; 
+    filter:(opacity=50);
+}
+
+#stephNavBar {
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	/*text-align: center;*/
+	z-index: 100; /* specifies the stack order of an element */
+	/*display:block;*/
+
+	/*background-color:#000; /*whichever you want*/
+ /*   opacity: 0.5; 
+    filter:(opacity=50);  */
 }

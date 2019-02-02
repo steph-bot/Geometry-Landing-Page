@@ -166,3 +166,24 @@ colorSel.addEventListener("click", changeColor);
 pageRefresh.addEventListener("click", refreshPage);
 
 
+
+// resize when window resized [responsive!]
+var windowHalfX = window.innerWidth / 2;
+var windowHalfY = window.innerHeight / 2;
+
+function onWindowResize() {
+  windowHalfX = window.innerWidth / 2;
+  windowHalfY = window.innerHeight / 2;
+  
+  camera.aspect = window.innerWidth / window.innerHeight;
+  camera.updateProjectionMatrix();
+
+  renderer.setSize(window.innerWidth, window.innerHeight);
+}
+
+window.addEventListener('resize', onWindowResize, false);
+
+// end resize when window resized [responsive!]
+
+
+
