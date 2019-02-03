@@ -1,11 +1,11 @@
 # geometry-landing-page
 
 https://steph-bot.github.io/geometry-landing-page/
-original
-
+<br>original
+<br><br>
 https://steph-bot.github.io/geometry-landing-page/indexLinkPage.html
-white page
-3 objects that are clickable links to other pages
-
+<br>white page
+<br>3 objects that are clickable links to other pages
+<br><br>
 https://steph-bot.github.io/geometry-landing-page/indexClickable.html
-add objects upon clicking
+<br>add objects upon clicking
