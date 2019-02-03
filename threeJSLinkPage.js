@@ -108,6 +108,11 @@ window.onload = function() {
     }
 
     // on hover, adjust the animation to provide visual feedback
+    description1=document.getElementById("info1");
+    description2=document.getElementById("info2");
+    description3=document.getElementById("info3");
+
+
     function onDocumentMouseMove(event) {
         event.preventDefault();
 
@@ -116,15 +121,64 @@ window.onload = function() {
 
         raycaster.setFromCamera(mouse, camera);
 
-        var intersects = raycaster.intersectObjects([mesh, mesh2, mesh3]);
         var canvas = document.body.getElementsByTagName('canvas')[0];
 
+
+
+        //mesh all
+        var intersects = raycaster.intersectObjects([mesh, mesh2, mesh3]);
+
         if (intersects.length > 0) {
-            intersects[0].object.rotation.x += .05;
+            // intersects[0].object.rotation.x += .05;
             canvas.style.cursor = "pointer";
+            // description.classList.remove("invisible");
         } else {
             canvas.style.cursor = "default";
+            // description.classList.add("invisible");
         }
+        // end mesh all
+
+        //mesh 1
+        var intersects1 = raycaster.intersectObjects([mesh]);
+        // var canvas = document.body.getElementsByTagName('canvas')[0];
+
+        if (intersects1.length > 0) {
+            intersects1[0].object.rotation.x += .05;
+            // canvas.style.cursor = "pointer";
+            description1.classList.remove("invisible");
+        } else {
+            // canvas.style.cursor = "default";
+            description1.classList.add("invisible");
+        }
+        // end mesh 1
+
+        //mesh 2
+        var intersects2 = raycaster.intersectObjects([mesh2]);
+        // var canvas = document.body.getElementsByTagName('canvas')[0];
+
+        if (intersects2.length > 0) {
+            intersects2[0].object.rotation.x += .05;
+            // canvas.style.cursor = "pointer";
+            description2.classList.remove("invisible");
+        } else {
+            // canvas.style.cursor = "default";
+            description2.classList.add("invisible");
+        }
+        // end mesh 2
+
+        //mesh 3
+        var intersects3 = raycaster.intersectObjects([mesh3]);
+        // var canvas = document.body.getElementsByTagName('canvas')[0];
+
+        if (intersects3.length > 0) {
+            intersects3[0].object.rotation.x += .05;
+            // canvas.style.cursor = "pointer";
+            description3.classList.remove("invisible");
+        } else {
+            // canvas.style.cursor = "default";
+            description3.classList.add("invisible");
+        }
+        // end mesh 3
 
     }
 

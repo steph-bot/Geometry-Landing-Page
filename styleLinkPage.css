@@ -1,0 +1,34 @@
+.invisible{
+	display:none;
+	visibility: hidden;
+}
+
+#info1 {
+	position: absolute;
+	top: 100px;
+	width: 100%;
+	text-align: center;
+	z-index: 100; /* specifies the stack order of an element */
+	display:block;
+	/*color: white;*/
+}
+
+#info2 {
+	position: absolute;
+	top: 100px;
+	width: 100%;
+	text-align: center;
+	z-index: 100; /* specifies the stack order of an element */
+	display:block;
+	/*color: white;*/
+}
+
+#info3 {
+	position: absolute;
+	top: 100px;
+	width: 100%;
+	text-align: center;
+	z-index: 100; /* specifies the stack order of an element */
+	display:block;
+	/*color: white;*/
+}
