@@ -3,7 +3,7 @@
 https://steph-bot.github.io/geometry-landing-page/
 <br>original
 <br>responsive for mobile
-<br>future: could improve pinch zoom features for mobile
+<br>future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
 <br><br>
 https://steph-bot.github.io/geometry-landing-page/indexLinkPage.html
 <br>white page
@@ -12,3 +12,6 @@ https://steph-bot.github.io/geometry-landing-page/indexLinkPage.html
 <br><br>
 https://steph-bot.github.io/geometry-landing-page/indexClickable.html
 <br>add objects upon clicking
+<br>responsive for mobile
+<br>future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
+<br><br>
