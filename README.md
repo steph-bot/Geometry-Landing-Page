@@ -15,3 +15,6 @@ https://steph-bot.github.io/geometry-landing-page/indexClickable.html
 <br>responsive for mobile
 <br>future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
 <br><br>
+
+
+Initial Commit: Feb 1, 2019
