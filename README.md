@@ -8,6 +8,7 @@ https://steph-bot.github.io/geometry-landing-page/
 Web Version | Mobile Version
 ------------ | -------------
 <img src="/screenshots/1geo1web.png" height="350"> | <img src="/screenshots/1geo1web.png" height="350">
+Content in the first column | Content in the second column
 <br><br>
 ## Popcorn Geo Objects
 https://steph-bot.github.io/geometry-landing-page/indexClickable.html
