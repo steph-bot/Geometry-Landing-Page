@@ -12,7 +12,8 @@ https://steph-bot.github.io/geometry-landing-page/indexClickable.html
 <br>responsive for mobile
 <br>future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
 <br><br>
-## https://steph-bot.github.io/geometry-landing-page/indexLinkPage.html
+## Geo Links
+https://steph-bot.github.io/geometry-landing-page/indexLinkPage.html
 <br>white page
 <br>3 objects that are clickable links to other pages
 <br>future: horrible for mobile! yikes
