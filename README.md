@@ -11,7 +11,6 @@ Web Version | Mobile Version
 ------------ | -------------
 <img src="/screenshots/1geo1web.png" height="400"> | <img src="/screenshots/1geo1mobile.png" height="400"> 
 ###
-<br><br>
 ## Popcorn Geo Objects
 https://steph-bot.github.io/geometry-landing-page/indexClickable.html
 <br>add objects upon clicking
