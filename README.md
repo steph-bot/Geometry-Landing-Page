@@ -2,7 +2,7 @@
 
 ## Original Geo Objects
 https://steph-bot.github.io/geometry-landing-page/
-<br>Future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
+<br>Future: Add modal with directions, improve pinch zoom features for mobile (use pinch zoom to plus/minus)
 ### 
 Web Version | Mobile Version
 ------------ | -------------
@@ -12,7 +12,7 @@ Web Version | Mobile Version
 https://steph-bot.github.io/geometry-landing-page/indexClickable.html
 <br>-Click wherever you want to add a new Popcorn Geo Object!
 <br>-Responsive for mobile.
-<br>-Future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
+<br>-Future: Add modal with directions, could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
 <br><br>
 ## Geo Links
 https://steph-bot.github.io/geometry-landing-page/indexLinkPage.html
