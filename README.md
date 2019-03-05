@@ -10,9 +10,9 @@ Web Version | Mobile Version
 ###
 ## Popcorn Geo Objects
 https://steph-bot.github.io/geometry-landing-page/indexClickable.html
-<br>add objects upon clicking
-<br>responsive for mobile
-<br>future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
+<br>-Click wherever you want to add a new Popcorn Geo Object!
+<br>-Responsive for mobile.
+<br>-Future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
 <br><br>
 ## Geo Links
 https://steph-bot.github.io/geometry-landing-page/indexLinkPage.html
