@@ -5,7 +5,8 @@ https://steph-bot.github.io/geometry-landing-page/
 <br>original
 <br>responsive for mobile
 <br>future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
-![test image size](/screenshots/1geo1web.png){:height="7px" width="49px"}
+![](/screenshots/1geo1web.png){:height="7px" width="49px"}
+<img src="/screenshots/1geo1web.png" width="100" height="100">
 <br><br>
 ## Popcorn Geo Objects
 https://steph-bot.github.io/geometry-landing-page/indexClickable.html
