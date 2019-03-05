@@ -2,10 +2,7 @@
 
 ## Original Geo Objects
 https://steph-bot.github.io/geometry-landing-page/
-<br>original
-<br>responsive for mobile
-<br>future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
-
+<br>Future: could improve pinch zoom features for mobile (use pinch zoom to plus/minus)
 ### 
 Web Version | Mobile Version
 ------------ | -------------
